@@ -31,13 +31,13 @@ The dashboard provides insights into:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Sales Value Dashboard
-![Sales Value](images/sales_value_dashboard.png)
+![Sales Value](sales_value_dashboard.png)
 
 ### Sales Units Dashboard
-![Sales Units](images/sales_units_dashboard.png)
+![Sales Units](sales_units_dashboard.png)
 ## Business Insights
 - Men's Street Footwear generated the highest sales.
 - Sales performance varied significantly across states.
