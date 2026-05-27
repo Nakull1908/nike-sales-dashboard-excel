@@ -45,6 +45,11 @@ The dashboard provides insights into:
 - Regional filters allow detailed sales analysis.
 
 ## Project Structure
+## Project Documentation
+
+This project also includes a detailed project summary PDF.
+
+[Download Project Summary PDF](project_summary.pdf)
 
 ```text
 nike-sales-dashboard-excel/
@@ -55,8 +60,6 @@ nike-sales-dashboard-excel/
 ├── docs/
 └── README.md
 ```
-
----
 
 ## Author
 Rohit Niwas Singh
