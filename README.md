@@ -1,4 +1,4 @@
-# nike-sales-dashboard-excel
+# nike-sales-data dashboard-excel
 # Nike Sales Dashboard Analysis
 
 ## Project Overview
