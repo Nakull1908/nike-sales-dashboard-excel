@@ -59,6 +59,6 @@ nike-sales-dashboard-excel/
 ---
 
 ## Author
-Rohit Singh
+Rohit Niwas Singh
 
 Aspiring Data Analyst | Excel Dashboard Enthusiast
